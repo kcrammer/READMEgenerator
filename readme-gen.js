@@ -1,6 +1,6 @@
 // required node packages
 const fs = require("fs");
-const generateMarkdown = require("./utils/generateMarkdown");
+const generateMarkdown = require("./assets/generateMarkdown");
 const inquirer = require("inquirer");
 
 // questions to build README
